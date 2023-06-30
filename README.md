@@ -1,5 +1,5 @@
 # API-JSON_Exam_Practical_Exam
-I given a task to Build a simple list app that displays the cryptocurrency rates. The front end must be based on HTML, CSS, and Javascript.
+I was given a task to Build a simple list app that displays the cryptocurrency rates. The front end must be based on HTML, CSS, and Javascript.
 
 REQUIREMENTS
 1. Lazy-load the data as the user scrolls down.
