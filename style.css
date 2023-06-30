@@ -1,0 +1,37 @@
+.box {
+  height: 35rem;
+  width: 40rem;
+}
+
+.search_bar {
+  box-shadow: none !important;
+}
+
+.listItems {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.listBox {
+  height: 5rem;
+  width: 6.4rem;
+  background-color: #999;
+}
+
+.listData {
+  padding: 0.5rem;
+  border: 2px solid #999;
+  width: 100%;
+}
+
+.f-sm {
+  font-size: 14px;
+  color: #777;
+  font-weight: 400;
+}
+
+.f-md {
+  font-size: 18px;
+}
